@@ -44,8 +44,8 @@ function Projects() {
               isBlog={false}
               title="Be My Courier"
               description="Experience a new era of package delivery with our fast and effortless service. With just a click, you can send packages swiftly, eliminating the frustration of slow and unreliable courier services. Our platform ensures secure, seamless shipments that reach their destination in record time, providing peace of mind and convenience. Whether for personal or business needs, we prioritize efficiency and reliability, helping you save time and effort. Say goodbye to delays and complicated processes—our user-friendly system makes shipping a hassle-free experience from start to finish."
-              ghLink="https://github.com/soumyajit4419/Face_And_Emotion_Detection"
-              demoLink="https://bemycourier.netlify.app/"
+              // ghLink="https://github.com/soumyajit4419/Face_And_Emotion_Detection"
+              // demoLink="https://bemycourier.netlify.app/"
             />
           </Col>
 
